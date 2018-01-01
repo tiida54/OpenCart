@@ -1,9 +1,9 @@
 # #OpenCart/系統主要文件#
 
-> Model - 數據庫層 
-> View - 模版展示 
-> Controller - 主要代碼層 
-> Language - 本地化 
+> Model 數據庫層 |
+> View 模版展示 |
+> Controller 主要代碼層 | 
+> Language 本地化 |
 
 ---
 ## 前台的產品頁面，主要有4個相關文件: 
@@ -149,6 +149,7 @@
 
 　　|—— special.php 特價商品列表 
 
+---
 
 > 參考資料[OpenCart - Open Source Shopping Cart Solution](https://www.opencart.com/)
 

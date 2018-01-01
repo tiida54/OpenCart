@@ -1,11 +1,14 @@
 # #OpenCart/前台顯示界面#
-# 模板文件列表ALL48-catalog/view 
-## OpenCart佈景放在/catalog/view/theme
+## 模板文件列表ALL48-catalog/view 
+
 ---
+## OpenCart佈景放在/catalog/view/theme
+
 ### 想要用所選擇的新界面完全取代預設的前端界面，
 [用 OpenCart 創建自定義主題：簡介](https://code.tutsplus.com/zh-hant/tutorials/create-a-custom-theme-with-opencart-introduction--cms-21786)
 ### 想改變一些東西如顏色組合、佈局結構和品牌相關的變化。
 [用 OpenCart 創建自定義主題：第二部分](https://code.tutsplus.com/zh-hant/tutorials/create-a-custom-theme-with-opencart-part-two--cms-21865)
+
 ---
 ### catalog/view/theme/your template/template/account 會員功能12
 
@@ -77,7 +80,8 @@
 ---
 ### catalog/view/theme/your template/template/mail 訂單確認信1
 
-　　order_confirm.tpl 訂單確認信 
+　　order_confirm.tpl 訂單確認信
+
 ---
 ### catalog/view/theme/your template/template/module 功能模塊13
 
@@ -120,9 +124,10 @@
 
 　　search.tpl 搜索功能 
 
-　　special.tpl 特價商品列表 
+　　special.tpl 特價商品列表
 
- 
+---
+
 > 參考資料[OpenCart - Open Source Shopping Cart Solution](https://www.opencart.com/)
 
 
